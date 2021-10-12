@@ -32,8 +32,7 @@ db:
   MYSQL_USER: 'user'
   # You can use whatever password you like
   MYSQL_PASSWORD: 'password'
-  # Password for roo
-  t access
+  # Password for root access
   MYSQL_ROOT_PASSWORD: 'password'
 ports:
   # <Port exposed> : < MySQL Port running inside container>
